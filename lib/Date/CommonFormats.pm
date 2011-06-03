@@ -246,6 +246,10 @@ You can also look for information at:
 
 =over 4
 
+=item * GITHUB
+
+L<https://github.com/masonqm/Date-CommonFormats>
+
 =item * RT: CPAN's request tracker
 
 L<http://rt.cpan.org/NoAuth/Bugs.html?Dist=Date-CommonFormats>
